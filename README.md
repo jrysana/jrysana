@@ -11,12 +11,9 @@ export const john = {
     // We also publish a TypeScript+React GLSL library: 
     reactShaders: 'github.com/rysanacom/react-shaders'
   },
-  details: {
-    origin: 'South Africa',
-    preferences: {
-      code: ['TypeScript', 'MySQL', 'React', 'TailwindCSS'],
-      design: ['#000000']
-    }
+  preferences: {
+    code: ['TypeScript', 'MySQL', 'React', 'TailwindCSS'],
+    design: ['#000000']
   }
 } as Engineer & Designer & Investor
 ```
