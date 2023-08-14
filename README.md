@@ -20,12 +20,13 @@ export const john = {
   }
 } satisfies Engineer & Designer & Investor
 ```
-<p align="center">
-  <a href="https://x.com/jrysana">X.com</a>
-  ·
-  <a href="https://rysana.com">Rysana, Inc.</a>
-  ·
-  <a href="https://rysana.com/lusat">Lusat AI</a>
-  ·
-  <a href="https://rysana.com/docs/react-shaders">React Shaders</a>
+---
+<p>
+  <a href="https://x.com/jrysana"><strong>X.com</strong></a>
+  ---
+  <a href="https://rysana.com"><strong>Rysana, Inc.</strong></a>
+  ---
+  <a href="https://rysana.com/lusat"><strong>Lusat AI</strong></a>
+  ---
+  <a href="https://rysana.com/docs/react-shaders"><strong>React Shaders</strong></a>
 </p>
