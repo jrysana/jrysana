@@ -1,4 +1,4 @@
-```js
+```ts
 export const john = {
   site: 'john.rysana.com',
   twitter: 'x.com/jrysana',
@@ -18,7 +18,7 @@ export const john = {
       design: ['#000000']
     }
   }
-} satisfies Engineer & Designer & Investor
+} as Engineer & Designer & Investor
 ```
 ---
 <p>
