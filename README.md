@@ -1,15 +1,14 @@
+# [`npm i -g bundown@latest`](https://github.com/rysana-ai/bundown)
+
 ```ts
 export const john = {
-  site: 'john.rysana.com',
   twitter: 'x.com/jrysana',
   company: {
     site: 'rysana.com',
+    bundown: 'github.com/rysana-ai/bundown',
     rysanaAI: 'github.com/rysana-ai/rysana-ai',
     reactShaders: 'github.com/rysana-ai/react-shaders'
   },
-  preferences: {
-    design: ['#000000']
-  }
 } as Engineer & Designer & Investor
 ```
 ---
