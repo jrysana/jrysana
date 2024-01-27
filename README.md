@@ -1,5 +1,3 @@
-# [`npm i -g bundown@latest`](https://github.com/rysana-ai/bundown)
-
 ```ts
 export const john = {
   twitter: 'x.com/jrysana',
@@ -11,11 +9,5 @@ export const john = {
   },
 } as Engineer & Designer & Investor
 ```
----
-<p>
-  <a href="https://x.com/jrysana"><strong>X.com</strong></a>
-  ---
-  <a href="https://rysana.com"><strong>Rysana AI</strong></a>
-  ---
-  <a href="https://rysana.com/docs/react-shaders"><strong>React Shaders</strong></a>
-</p>
+
+### [`x.com/jrysana`](https://x.com/jrysana) [`rysana-ai`](https://github.com/rysana-ai/rysana-ai) [`npm i -g bundown@latest`](https://github.com/rysana-ai/bundown)
